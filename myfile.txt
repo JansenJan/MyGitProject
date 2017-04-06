@@ -3,3 +3,5 @@ Een extra regel toegevoegd aan deze file
 
 Voor new_feature is dit de eerste commit.
 Voor another_feature is dit de eerste commit.
+
+Voor another feature is dit de tweede commit.
