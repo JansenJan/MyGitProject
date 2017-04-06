@@ -2,3 +2,4 @@ C:\Program Files\QGIS 2.18\apps\qgis\svg\arrows
 Een extra regel toegevoegd aan deze file
 
 Voor new_feature is dit de eerste commit.
+Voor another_feature is dit de eerste commit.
