@@ -3,3 +3,5 @@ en een tweede regel
 
 Voor new feature is dit de eerste commit.
 Tweede commit new_feature
+
+In hp_branch nu ook hier een regel toegevoegd.
