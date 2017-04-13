@@ -5,4 +5,7 @@ Ik hoor graag na deze meeloopdienst wat jouw bevindingen zijn; ik vraag dat ook 
 Tweede commit new_feature.
 Eerste commit another_feature.
 
+In hp_branch is deze regel toegevoegd aan myfile3.txt
+
+
  
